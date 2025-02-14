@@ -16,3 +16,6 @@ python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-complet
 
 ## Prerequisites: 
 python 3.9.7, CUDA 11.6, torch 2.0.1 (for `CMAB ∈ {EENet, GNB}`), torch 1.12.1+cu113 (for `CMAB ∈ {NeuralUCB, NeuralTS}`), torchvision 0.16.2, sklearn 0.24.2, numpy 1.20.3, scipy 1.7.1, pandas 1.3.4
+
+
+
