@@ -10,6 +10,6 @@ python bandit-experiments-real-world-datasets/blogcatalog_0.40/NetCB-complete-Li
 Run $LinUCB$, $NetCB_{LinUCB}$, and $NetCB_{\overline{CMAB}}$ on semi-synthetic Blogcatalog dataset (homophilic score: 0.88):
 ```python
 python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/LinUCB.py
-python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.40/NetCB-LinUCB.py
-python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.40/NetCB-LinUCB.py
+python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-LinUCB.py
+python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-LinUCB.py
 ```
