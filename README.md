@@ -1,1 +1,1 @@
-# NetCB
+# NetCB: Network Contextual Bandits
