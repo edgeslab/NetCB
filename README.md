@@ -11,5 +11,5 @@ Run $LinUCB$, $NetCB_{LinUCB}$, and $NetCB_{\overline{LinUCB}}$ on semi-syntheti
 ```python
 python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/LinUCB.py
 python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-LinUCB.py
-python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-LinUCB.py
+python bandit-experiments-semi-synthetic-datasets/blogcatalog_0.88/NetCB-complete-LinUCB.py
 ```
