@@ -1,5 +1,5 @@
 # NetCB: Network Contextual Bandits
-In this repository, we provide implementation of baseline $CMAB$, $NetCB_{CMAB}$, $NetCB_{\overline{CMAB}}$, where `CMAB ∈ {LinUCB, NeuralUCB, NeuralTS, EENet, GNB}` $CMAB \in {LinUCB, NeuralUCB, NeuralTS, EENet, GNB}$. When the $CMAB$ is $LinUCB$, we denote the corresponding python files with LinUCB.py, NetCB-LinUCB.py, and NetCB-complete-LinUCB.py, respectively. 
+In this repository, we provide implementation of baseline $CMAB$, $NetCB_{CMAB}$, $NetCB_{\overline{CMAB}}$, where `CMAB ∈ {$LinUCB$, $NeuralUCB$, NeuralTS, EENet, GNB}` $CMAB \in {LinUCB, NeuralUCB, NeuralTS, EENet, GNB}$. When the $CMAB$ is $LinUCB$, we denote the corresponding python files with LinUCB.py, NetCB-LinUCB.py, and NetCB-complete-LinUCB.py, respectively. 
 # Run
 Run $LinUCB$, $NetCB_{LinUCB}$, and $NetCB_{\overline{LinUCB}}$ on Blogcatalog dataset (homophilic score: 0.40) as follows:
 ```python
